@@ -1,4 +1,5 @@
-<img src="https://github-readme-templates.vercel.app/wave.svg" alt="Wave" style="width: 100%; height: auto;" />
+<div style="height: 80px; background: linear-gradient(to right, #6a11cb, #2575fc); border-bottom-left-radius: 50% 20%; border-bottom-right-radius: 50% 20%;"></div>
+
 
 
 
