@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg" alt="Wave" />
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg" alt="Wave" style="width: 100%; height: auto;" />
+
 
 
 # NeuSight
@@ -9,10 +10,10 @@ A machine learning project for GPU-accelerated vision model prediction and optim
 
 NeuSight provides tools for running, optimizing, and analyzing vision models with GPU acceleration. The project includes:
 
-- Batch processing optimization
-- Model inference and prediction
-- GPU resource monitoring and management
-- Interactive web dashboard for visualization and control
+- Batch processing optimization  
+- Model inference and prediction  
+- GPU resource monitoring and management  
+- Interactive web dashboard for visualization and control  
 - Comparative analysis of model performance
 
 ## Directory Structure
@@ -105,11 +106,11 @@ Key dependencies include:
 
 ## License
 
-[Specify your license information here]
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## Contact
 
-Aniket Mishra - [Your contact information]
-Project Link: [https://github.com/Aniketxmishra/NeuSight](https://github.com/Aniketxmishra/NeuSight)
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+Aniket Mishra - [anik8mishra@gmail.com]
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" style="width: 100%; height: auto;" /> ```
 
