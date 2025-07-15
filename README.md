@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg" alt="Wave" style="width: 100%; height: auto;" />
+<img src="https://github-readme-templates.vercel.app/wave.svg" alt="Wave" style="width: 100%; height: auto;" />
+
+
 
 
 
@@ -112,5 +114,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 Aniket Mishra - [anik8mishra@gmail.com]
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" style="width: 100%; height: auto;" /> ```
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" style="width: 100%; height: auto;" /> 
 
