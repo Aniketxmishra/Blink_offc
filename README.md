@@ -1,3 +1,5 @@
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg)
+
 # NeuSight
 
 A machine learning project for GPU-accelerated vision model prediction and optimization with an interactive web dashboard.
@@ -108,4 +110,5 @@ Key dependencies include:
 
 Aniket Mishra - [Your contact information]
 Project Link: [https://github.com/Aniketxmishra/NeuSight](https://github.com/Aniketxmishra/NeuSight)
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
