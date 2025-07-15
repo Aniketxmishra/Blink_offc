@@ -1,4 +1,5 @@
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg" alt="Wave" />
+
 
 # NeuSight
 
